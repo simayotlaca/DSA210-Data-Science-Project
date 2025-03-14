@@ -1,7 +1,7 @@
 # DSA210-Data-Science-Project
 Combining QS and THE University Rankings with CSRankings and Patent Data for a Comprehensive Academic Performance Analysis - DSA210 Project
 
-###1. Project Overview
+### 1.Project Overview
 
 This project aims to analyze global university rankings by combining QS and THE rankings while incorporating CSRankings data and industry collaboration metrics (patents, research partnerships) from WIPO/Google Patents to enrich the analysis with academic productivity and industry impact metrics. The goal is to create a more balanced and research-driven ranking system that better reflects university performance in both education, research, and industrial collaboration.
 
@@ -11,7 +11,7 @@ This project is planned to integrate ranking methodologies from QS World Univers
  
 Given the size and complexity of these datasets, a structured data enrichment process will be applied to ensure an unbiased ranking model. This will help identify how universities perform beyond perception-based rankings by emphasizing measurable research and industry impact.
 
-###2. Motivation
+### 2.Motivation
 
 University rankings significantly influence institutional reputation, funding, and student choices. However, the methodologies of QS and THE rankings have limitations that may lead to inconsistencies in university evaluations.
 	•	QS Rankings emphasize academic reputation and employer feedback but lack depth in research performance evaluation.
@@ -22,7 +22,7 @@ University rankings significantly influence institutional reputation, funding, a
 By integrating these diverse data sources, the project aims to develop a ranking methodology that prioritizes measurable research output, innovation impact, and industrial collaborations over subjective perception-based rankings.
 
 
-###3. Project Goals and Objectives
+### 3.Project Goals and Objectives
 
 Main Goal:
 
@@ -55,7 +55,7 @@ Step 3: Visualization and Analysis
 These analyses will help determine whether QS & THE rankings fairly represent academic productivity and industry impact.
 
 
-###4. Analysis & Visualizations
+### 4.Analysis & Visualizations
 
 Analysis Methods:
 
@@ -74,7 +74,7 @@ Data Visualization (Matplotlib, Seaborn, Plotly):
 	•	Relationship mapping between patents, publications, and university rankings.
 
 
-###5. Conclusion & Future Work
+### 5.Conclusion & Future Work
 
 This project will merge QS and THE rankings with CSRankings and patent data to establish a new university ranking model that balances reputation, research productivity, and industry impact. The findings may lead to more transparent and data-driven evaluations of academic institutions.
 
