@@ -31,7 +31,7 @@ To develop a comprehensive university ranking model that integrates QS, THE, CSR
 Hypothesis:
 The most important criterion for a university’s ranking is its success and quality in research and development.
 
-###4. Data Collection & Enrichment
+### 4.Data Collection & Enrichment
 
 Data Processing Steps:
 
@@ -55,7 +55,7 @@ Step 3: Visualization and Analysis
 These analyses will help determine whether QS & THE rankings fairly represent academic productivity and industry impact.
 
 
-### 4.Analysis & Visualizations
+### 5.Analysis & Visualizations
 
 Analysis Methods:
 
@@ -74,7 +74,7 @@ Data Visualization (Matplotlib, Seaborn, Plotly):
 	•	Relationship mapping between patents, publications, and university rankings.
 
 
-### 5.Conclusion & Future Work
+### 6.Conclusion & Future Work
 
 This project will merge QS and THE rankings with CSRankings and patent data to establish a new university ranking model that balances reputation, research productivity, and industry impact. The findings may lead to more transparent and data-driven evaluations of academic institutions.
 
