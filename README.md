@@ -29,6 +29,7 @@ Main Goal:
 To develop a comprehensive university ranking model that integrates QS, THE, CSRankings, and patent/industry collaboration data to provide a more research-driven and innovation-focused assessment of academic institutions.
 
 Hypothesis:
+
 The most important criterion for a university’s ranking is its success and quality in research and development.
 
 ### 4.Data Collection & Enrichment
@@ -40,7 +41,7 @@ To demonstrate the methodology, the following steps will be applied:
 Step 1: Combining QS and THE Rankings
 	•	Normalize QS and THE rankings to create a unified ranking system.
 	•	Define a weighting methodology:
-	•	Example: New Score = (0.5 * QS Rank) + (0.5 * THE Rank)
+	•	Example: New Score=(0.5*QS Rank)+(0.5*THE Rank)
 	•	Implement normalization using min-max scaling or z-score normalization.
 
 Step 2: Data Enrichment
