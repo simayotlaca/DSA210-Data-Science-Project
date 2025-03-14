@@ -1,20 +1,20 @@
 # DSA210-Data-Science-Project
-Combining QS and THE University Rankings with CSRankings and Patent Data for a Comprehensive Academic Performance Analysis - DSA210 Project
+## Combining QS and THE University Rankings with CSRankings and Patent Data for a Comprehensive Academic Performance Analysis - DSA210 Project
 
 ### 1.Project Overview
 
 This project aims to analyze global university rankings by combining QS and THE rankings while incorporating CSRankings data and industry collaboration metrics (patents, research partnerships) from WIPO/Google Patents to enrich the analysis with academic productivity and industry impact metrics. The goal is to create a more balanced and research-driven ranking system that better reflects university performance in both education, research, and industrial collaboration.
 
 This project is planned to integrate ranking methodologies from QS World University Rankings and Times Higher Education (THE) Rankings, and then enrich this dataset with:
-	1.	Faculty research output metrics from CSRankings.org (academic publications and impact)
-	2.	Patent and industry collaboration data from WIPO/Google Patents (innovation and tech transfer metrics)
+	1.Faculty research output metrics from CSRankings.org (academic publications and impact)
+	2.Patent and industry collaboration data from WIPO/Google Patents (innovation and tech transfer metrics)
  
 Given the size and complexity of these datasets, a structured data enrichment process will be applied to ensure an unbiased ranking model. This will help identify how universities perform beyond perception-based rankings by emphasizing measurable research and industry impact.
 
 ### 2.Motivation
 
 University rankings significantly influence institutional reputation, funding, and student choices. However, the methodologies of QS and THE rankings have limitations that may lead to inconsistencies in university evaluations.
-	•	QS Rankings emphasize academic reputation and employer feedback but lack depth in research performance evaluation.
+	•QS Rankings emphasize academic reputation and employer feedback but lack depth in research performance evaluation.
 	•	THE Rankings consider research influence, teaching environment, and industry income but have unclear criteria for measuring industry collaboration.
 	•	CSRankings provide an objective measure of faculty research output and impact through top-tier publications.
 	•	Patent & Industry Collaboration Data reflect real-world economic and technological contributions, aspects largely missing from traditional rankings.
