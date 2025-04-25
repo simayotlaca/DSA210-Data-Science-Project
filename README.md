@@ -43,12 +43,11 @@ Step 1: Combining QS and THE Rankings
 	•	Define a weighting methodology:
 	•	Example: New Score=(0.5*QS Rank)+(0.5*THE Rank)
 	•	Implement normalization using min-max scaling or z-score normalization.
-
-Step 2: Data Enrichment
 	•	Integrating academic productivity data from CSRankings, including publication count and research areas.
 	•	Examining correlations between university ranking position and research outputs.
+Due to inconsistencies in university naming conventions between the QS and THE ranking websites—such as the presence of prefixes like “The”, differing abbreviations, and variations in institutional naming—it was not feasible to merge the datasets automatically using Python code. Therefore, I manually matched universities from the THE rankings to their corresponding positions in the QS ranking by carefully reviewing each entry. Although this process was time-consuming and required significant effort, I created a fully aligned dataset by hand, ensuring consistency across all entries. In this sense, the final dataset used in the project was manually constructed and curated from multiple sources.
 
-Step 3: Visualization and Analysis
+Step 2: Visualization and Analysis
 	•	Comparing consistency across QS & THE rankings—which universities show stability, and which exhibit large variations?
 	•	Comparing the newly created ranking with QS & THE rankings to assess accuracy.
 	•	Determining key influencing factors in university rankings, potentially using machine learning models.
