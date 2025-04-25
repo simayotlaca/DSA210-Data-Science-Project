@@ -82,3 +82,7 @@ Future Directions:
 	•	Expanding the dataset to analyze historical trends in university rankings.
 	•	Developing an interactive dashboard for real-time ranking comparisons.
 	•	Exploring machine learning techniques to predict university ranking trends based on research and industry performance.
+
+## References:
+https://www.topuniversities.com/world-university-rankings
+https://www.timeshighereducation.com/world-university-rankings/2024/world-ranking
