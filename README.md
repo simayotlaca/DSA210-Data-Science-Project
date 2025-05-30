@@ -30,9 +30,7 @@ Methodologies relying on **subjective surveys** are vulnerable to **regional pre
 
 Despite their significant contributions to research and innovation, many top-tier institutions in Asia receive **lower-than-expected rankings**, suggesting that geographic location may unjustly influence global perception and evaluation.
 
----
-
-## 🧠 Project Aim
+## Project Aim
 
 This project investigates the extent to which **geographic location alone** can predict a university’s position in QS and THE rankings. It further explores whether the inclusion of **objective academic indicators**—such as research productivity, patent output, and institutional metadata—can lead to a more **equitable and data-driven evaluation** of global academic performance..
 
