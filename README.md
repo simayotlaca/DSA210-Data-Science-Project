@@ -1,5 +1,5 @@
 # DSA210-Data-Science-Project
-## Combining QS and THE University Rankings with CSRankings and Patent Data for a Comprehensive Academic Performance Analysis - DSA210 Project
+## Challenging Regional Bias in Global University Rankings through Data-Driven EvaluationAnalysis - DSA210 Project
 
 ### 1.Project Overview
 
